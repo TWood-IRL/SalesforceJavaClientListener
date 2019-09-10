@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/emp-connector-0.0.1-SNAPSHOT-phat.jar"/>
+	<classpathentry kind="lib" path="jars/emp-connector-0.0.1-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="jars/emp-connector-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
