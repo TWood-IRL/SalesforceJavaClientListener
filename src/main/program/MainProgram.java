@@ -1,3 +1,5 @@
+package main.program;
+
 /*
  * Copyright (c) 2016, salesforce.com, inc.
  * All rights reserved.
@@ -26,13 +28,15 @@ import com.salesforce.emp.connector.LoginHelper;
 import com.salesforce.emp.connector.TopicSubscription;
 import com.salesforce.emp.connector.example.BearerTokenProvider;
 
+import main.listener.SaleforceListener;
+
 /**
  * An example of using the EMP connector
  *
  * @author hal.hildebrand
  * @since API v37.0
  */
-public class mainProgram {
+public class MainProgram {
 	/**
 	 * https://github.com/forcedotcom/EMP-Connector
 	 *
